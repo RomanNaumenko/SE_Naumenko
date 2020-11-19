@@ -12,6 +12,10 @@ namespace SE_L_3
         {
             Console.WriteLine("Hello World! ");
             Console.WriteLine("Bye");
+
+
+            Console.ReadKey();
+
         }
     }
 }
