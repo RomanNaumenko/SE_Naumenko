@@ -9,11 +9,12 @@ namespace SE_L_3
     class Program
     {
         static void Main(string[] args)
-        { 
+        {
             Console.WriteLine("Hello World! ");
 
+
             Console.ReadKey();
-            Console.WriteLine("GoodBye");
+
         }
     }
 }
